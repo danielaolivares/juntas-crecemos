@@ -16,9 +16,9 @@ class CreateAccount extends React.Component {
       fontStyle: 'normal',
       fontWeight: 'bold',
       border: '1px solid #7D4EE6',
-      margin: '10px auto',
-
+      margin: '10px auto'
     }
+    
     return (
       <div className="create-account-container">
         <section style={{ display: 'flex', backgroundColor: '#7D4EE6' }}>
